@@ -3,8 +3,8 @@ Social Advertising Democratized &
 Globally Monetized
 
 
+[ARKeth web site](https://www.ARketh.Com).
 
-https://www.ARketh.Com
 
 ARKeth TOKEN LAUNCH PAPER
 By
@@ -71,9 +71,6 @@ The purpose is to give insight in to what the ARKeth project is and provide valu
 This is still It's a very early stage of development but provide the high level concepts and can answer
 some of the question a perspective participant can use if they interested in investing or participating in
 this project.
-
-* Service Hierarchy
-* Dependency Injection
 
 # 2. Legal Disclaimer
 ## 2.1	Disclaimer
