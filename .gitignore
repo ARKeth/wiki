@@ -6,6 +6,9 @@ yarn-debug.log*
 yarn-error.log*
 
 # Runtime data
+*.xml
+
+# Runtime data
 pids
 *.pid
 *.seed
