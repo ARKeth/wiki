@@ -4,7 +4,7 @@
 
 Detect and act upon changes to input property values with the `ngOnChanges` method of the `OnChanges` lifecycle hook interface.
 
-## When to use
+## When to use 
 
 Majority of child components will be using the `input` and `output` interaction patterns. It is the most maintainable method and also helps enforce reusability.
  
