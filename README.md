@@ -1,4 +1,4 @@
 # wiki
-Welcome to ARKeth Wiki
+Welcome to the ARKeth Wiki.
 
-This will be the repo to store all related MD files related to the AEKeth platform.
+This is the repo where we store all markdown (MD) files associated with the AEKeth platform.
